@@ -46,7 +46,7 @@ params={"alpha":[0.01,0.02,0.05,0.1,0.5,1,5,10,100,200,500,1000]}
 
 regressor_spike = GridSearchCV(regressor_spike,params)
 regressor_spike.fit(X,y_spike)
-#y_pred=regressor_spike.predict(X_test)
+
 print(regressor_spike.best_params_)
 regressor_block= GridSearchCV(regressor_block,params)
 regressor_block.fit(X,y_block)
