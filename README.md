@@ -14,6 +14,16 @@ But the maintask for me was to (finally!) deploy a model on a webapp. Therefore 
 
 
 
+## Usage
+
+To use this model you need to download the data and the three .py files. Then you go to the Regression.py and enter the right sourcepath. After running the Regression.py you can go to your Anaconda Prompt. 
+Type in: 
+1) cd "C:\....yourpath..."
+2) python webapp.py
+
+After you run the app, you can copy the appearing adress to your browser. Now you can enter some values. Have fun!
+
+
 ## Further Steps:  
 
 Adding more data would be benefitial for the accuracy of the prediction. Additionally one can think about finetuning the visual appearance of this simple Web-Application. 
