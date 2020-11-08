@@ -1,4 +1,4 @@
-# Jump_Height_Prediction
+# Jump Height Prediction in Volleyball
 
 ## Project Overview:
 
