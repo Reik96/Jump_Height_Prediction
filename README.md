@@ -9,7 +9,7 @@
 
 ## Introduction:
 
-In the following project, I gathered few data from professional Volleyballplayers. Based on their age, height and weight a build a simple regression model. The question I asked myself was: Can I predict the spike height and block height of a player based on this variables?
+In the following project, I gathered few data from professional Volleyballplayers. Based on their age, height and weight I build a simple regression model. The question I asked myself was: Can I predict the spike height and block height of a player based on this variables?
 But the maintask for me was to (finally!) deploy a model on a webapp. Therefore I used Flask and the resources listed below.
 
 
