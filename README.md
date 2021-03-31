@@ -31,4 +31,4 @@ Adding more data would be benefitial for the accuracy of the prediction. Additio
 
 
 ## Resources:
-* https://github.com/krishnaik06/Deployment-flask (inspiration on how to build a webapp with Flask)
+* https://github.com/krishnaik06/Deployment-flask (Good tutorial and baseline for my code on how to build a webapp with Flask)
